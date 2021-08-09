@@ -1,0 +1,137 @@
+181339380092940-8101732883
+556902572600671-8101670258
+555444502198476-8101732882
+Detailed information on licenses:
+Microsoft Windows [Version 10.0.19043.906]
+(c) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+D:\MyProject\License_Monitor>ring license info --name 181339380092940-8101732883 --path D:\MyProject\License_Monitor\License\
+Имя файла лицензии: "20210727212146.lic"
+Информация о пользователе:
+    Имя: Рома
+    Фамилия: Петрук
+    e-mail: petruk@tpp.ru
+    Компания: ООО Парус
+    Страна: RU
+    Индекс: 690000
+    Регион/область: Приморский край
+    Город: Владивосток
+    Улица: Крыгина
+    Дом: 40
+Информация о продукте:
+    Описание: 1С Предприятие 8. Лицензия на сервер (х86-64) (программная защита)
+    Дата комплектации: 10:08:51 17.02.2020
+    Регистрационный номер: 8101732883G0
+    Код продукта: 0000000060000
+    Тип лицензии: Серверная лицензия на 64-разрядный сервер
+    Тип привязки лицензии: Компьютер
+TechnicalInfo:
+    LicenseType: ServerLicenseFor64BitServer
+    LicenseAssociationType: Computer
+    LicenseGenerationDate: 2020-02-17T10:08:51
+    ProductCode: 0000000060000
+    DistributionKitRegistrationNumber: 8101732883G0
+
+D:\MyProject\License_Monitor>ring license validate --name 181339380092940-8101732883 --path D:\MyProject\License_Monitor\License\
+Проверка лицензии завершилась с ошибкой.
+По причине: Удалено : 
+ - OS Inst Date_0 : 1580416728
+ - OS_0 : Microsoft Windows Server 2012 R2 Standard
+ - OS Ser_0 : 00252-70000-00000-AA210
+ - BIOS_0 : Phoenix Technologies LTD, 20181212000000.000000+000, 6.00, 2, 7
+ - Sys Name_0 : SRV-RR-LIC2
+ - Sys Type_0 : VMware Virtual Platform, x64-based PC
+ - OS Ver_0 : 6.3
+ - CPU_1 : CPU1, Intel64 Family 6 Model 85 Stepping 7, 64, 64, 3292, 0F8BFBFF00000657, 21767, CPU #001
+ - CPU_0 : CPU0, Intel64 Family 6 Model 85 Stepping 7, 64, 64, 3292, 0F8BFBFF00050657, 21767, CPU #000
+ - NET_9 :  00:0C:29:34:D8:9C, PCI\VEN_15AD&DEV_07B0&SUBSYS_07B015AD&REV_01\000C29FFFF34D89C00
+ - DISK_0 :  512, 63, 7832, 255, 1997160, 125821080, 64420392960
+
+
+D:\MyProject\License_Monitor>ring license info --name 556902572600671-8101670258 --path D:\MyProject\License_Monitor\License\
+Имя файла лицензии: "20210727212229.lic"
+Информация о пользователе:
+    Имя: Рома
+    Фамилия: Петрук
+    e-mail: petruk@tpp.ru
+    Компания: ООО Парус
+    Страна: RU
+    Индекс: 690000
+    Регион/область: Приморский край
+    Город: Владивосток
+    Улица: Крыгина
+    Дом: 40
+Информация о продукте:
+    Описание: 1С Предприятие 8. Лицензия на 100 рабочих мест (программная защита)
+    Дата комплектации: 10:09:21 17.02.2020
+    Регистрационный номер: 8101670258G0
+    Код продукта: 0000000000100
+    Тип лицензии: Клиентская лицензия
+    Тип привязки лицензии: Компьютер
+TechnicalInfo:
+    LicenseType: ClientLicense
+    LicenseAssociationType: Computer
+    LicenseGenerationDate: 2020-02-17T10:09:21
+    ProductCode: 0000000000100
+    DistributionKitRegistrationNumber: 8101670258G0
+
+D:\MyProject\License_Monitor>ring license validate --name 556902572600671-8101670258 --path D:\MyProject\License_Monitor\License\
+Проверка лицензии завершилась с ошибкой.
+По причине: Удалено : 
+ - OS Inst Date_0 : 1580416728
+ - OS_0 : Microsoft Windows Server 2012 R2 Standard
+ - OS Ser_0 : 00252-70000-00000-AA210
+ - BIOS_0 : Phoenix Technologies LTD, 20181212000000.000000+000, 6.00, 2, 7
+ - Sys Name_0 : SRV-RR-LIC2
+ - Sys Type_0 : VMware Virtual Platform, x64-based PC
+ - OS Ver_0 : 6.3
+ - CPU_1 : CPU1, Intel64 Family 6 Model 85 Stepping 7, 64, 64, 3292, 0F8BFBFF00000657, 21767, CPU #001
+ - CPU_0 : CPU0, Intel64 Family 6 Model 85 Stepping 7, 64, 64, 3292, 0F8BFBFF00050657, 21767, CPU #000
+ - NET_9 :  00:0C:29:34:D8:9C, PCI\VEN_15AD&DEV_07B0&SUBSYS_07B015AD&REV_01\000C29FFFF34D89C00
+ - DISK_0 :  512, 63, 7832, 255, 1997160, 125821080, 64420392960
+
+
+D:\MyProject\License_Monitor>ring license info --name 555444502198476-8101732882 --path D:\MyProject\License_Monitor\License\
+Имя файла лицензии: "20210805163939.lic"
+Информация о пользователе:
+    Имя: Рома
+    Фамилия: Петрук
+    e-mail: petruk@tpp.ru
+    Компания: ООО Парус
+    Страна: RU
+    Индекс: 690000
+    Регион/область: Приморский край
+    Город: Владивосток
+    Улица: Крыгина
+    Дом: 40
+Информация о продукте:
+    Описание: 1С Предприятие 8. Лицензия на сервер (х86-64) (программная защита)
+    Дата комплектации: 10:08:31 17.02.2020
+    Регистрационный номер: 8101732882G0
+    Код продукта: 0000000060000
+    Тип лицензии: Серверная лицензия на 64-разрядный сервер
+    Тип привязки лицензии: Компьютер
+TechnicalInfo:
+    LicenseType: ServerLicenseFor64BitServer
+    LicenseAssociationType: Computer
+    LicenseGenerationDate: 2020-02-17T10:08:31
+    ProductCode: 0000000060000
+    DistributionKitRegistrationNumber: 8101732882G0
+
+D:\MyProject\License_Monitor>ring license validate --name 555444502198476-8101732882 --path D:\MyProject\License_Monitor\License\
+Проверка лицензии завершилась с ошибкой.
+По причине: Удалено : 
+ - OS Inst Date_0 : 1580416728
+ - OS_0 : Microsoft Windows Server 2012 R2 Standard
+ - OS Ser_0 : 00252-70000-00000-AA210
+ - BIOS_0 : Phoenix Technologies LTD, 20181212000000.000000+000, 6.00, 2, 7
+ - Sys Name_0 : SRV-RR-LIC2
+ - Sys Type_0 : VMware Virtual Platform, x64-based PC
+ - OS Ver_0 : 6.3
+ - CPU_1 : CPU1, Intel64 Family 6 Model 85 Stepping 7, 64, 64, 3292, 0F8BFBFF00000657, 21767, CPU #001
+ - CPU_0 : CPU0, Intel64 Family 6 Model 85 Stepping 7, 64, 64, 3292, 0F8BFBFF00050657, 21767, CPU #000
+ - NET_9 :  00:0C:29:34:D8:9C, PCI\VEN_15AD&DEV_07B0&SUBSYS_07B015AD&REV_01\000C29FFFF34D89C00
+ - DISK_0 :  512, 63, 7832, 255, 1997160, 125821080, 64420392960
+
+
+D:\MyProject\License_Monitor>

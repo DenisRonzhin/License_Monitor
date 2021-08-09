@@ -1,0 +1,32 @@
+D:\MyProject\License Monitor\bin\Debug\net5.0\License Monitor.exe
+D:\MyProject\License Monitor\bin\Debug\net5.0\License Monitor.deps.json
+D:\MyProject\License Monitor\bin\Debug\net5.0\License Monitor.runtimeconfig.json
+D:\MyProject\License Monitor\bin\Debug\net5.0\License Monitor.runtimeconfig.dev.json
+D:\MyProject\License Monitor\bin\Debug\net5.0\License Monitor.dll
+D:\MyProject\License Monitor\bin\Debug\net5.0\ref\License Monitor.dll
+D:\MyProject\License Monitor\bin\Debug\net5.0\License Monitor.pdb
+D:\MyProject\License Monitor\obj\Debug\net5.0\License Monitor.csproj.AssemblyReference.cache
+D:\MyProject\License Monitor\obj\Debug\net5.0\License Monitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\License Monitor\obj\Debug\net5.0\License Monitor.AssemblyInfoInputs.cache
+D:\MyProject\License Monitor\obj\Debug\net5.0\License Monitor.AssemblyInfo.cs
+D:\MyProject\License Monitor\obj\Debug\net5.0\License Monitor.csproj.CoreCompileInputs.cache
+D:\MyProject\License Monitor\obj\Debug\net5.0\License Monitor.dll
+D:\MyProject\License Monitor\obj\Debug\net5.0\ref\License Monitor.dll
+D:\MyProject\License Monitor\obj\Debug\net5.0\License Monitor.pdb
+D:\MyProject\License Monitor\obj\Debug\net5.0\License Monitor.genruntimeconfig.cache
+D:\MyProject\License_Monitor\bin\Debug\net5.0\License Monitor.exe
+D:\MyProject\License_Monitor\bin\Debug\net5.0\License Monitor.deps.json
+D:\MyProject\License_Monitor\bin\Debug\net5.0\License Monitor.runtimeconfig.json
+D:\MyProject\License_Monitor\bin\Debug\net5.0\License Monitor.runtimeconfig.dev.json
+D:\MyProject\License_Monitor\bin\Debug\net5.0\License Monitor.dll
+D:\MyProject\License_Monitor\bin\Debug\net5.0\ref\License Monitor.dll
+D:\MyProject\License_Monitor\bin\Debug\net5.0\License Monitor.pdb
+D:\MyProject\License_Monitor\obj\Debug\net5.0\License Monitor.csproj.AssemblyReference.cache
+D:\MyProject\License_Monitor\obj\Debug\net5.0\License Monitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\License_Monitor\obj\Debug\net5.0\License Monitor.AssemblyInfoInputs.cache
+D:\MyProject\License_Monitor\obj\Debug\net5.0\License Monitor.AssemblyInfo.cs
+D:\MyProject\License_Monitor\obj\Debug\net5.0\License Monitor.csproj.CoreCompileInputs.cache
+D:\MyProject\License_Monitor\obj\Debug\net5.0\License Monitor.dll
+D:\MyProject\License_Monitor\obj\Debug\net5.0\ref\License Monitor.dll
+D:\MyProject\License_Monitor\obj\Debug\net5.0\License Monitor.pdb
+D:\MyProject\License_Monitor\obj\Debug\net5.0\License Monitor.genruntimeconfig.cache
