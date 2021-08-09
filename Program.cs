@@ -53,7 +53,7 @@ namespace license_viewer
                 Console.WriteLine($"Идет сбор информации по лицензиям. Это может занять некоторое время.");
                
                 MyCmd.ShowLicense();    
-                MyCmd.GetAllLicenseInfo();
+                string licenseInfo = MyCmd.GetAllLicenseInfo();
                 Console.WriteLine("Информация по лицензиям записана в файл: log.txt");
 
             } else Console.WriteLine("Не найдено установленных лицензий, проверьте пункты 1-3");

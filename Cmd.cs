@@ -127,7 +127,7 @@ namespace license_viewer
 
         }
 
-        public void GetAllLicenseInfo()
+        public string GetAllLicenseInfo()
         {
             List<string> commanList = new List<string>();
             //commanList.Add($"chcp 866 && cmd");
@@ -145,6 +145,8 @@ namespace license_viewer
                 sw.WriteLine("Detailed information on licenses:");
                 sw.WriteLine(licenseInfo);
             }
+
+            return licenseInfo;
         }
 
         public void OpenFile()

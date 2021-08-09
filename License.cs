@@ -34,13 +34,7 @@ namespace license_viewer
             // this.fileName = fileName;
          }
 
-        public void ParseInfo(string info)
-        {
-
-
-
-        }
-
+       
     }
 
 
